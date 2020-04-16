@@ -8,7 +8,7 @@ public class EmployeeMain {
 
     public static void main(String[] args) {
     	
-    	EmployeeMain empmain=new EmployeeMain();
+    	
     	
         AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext();
         
