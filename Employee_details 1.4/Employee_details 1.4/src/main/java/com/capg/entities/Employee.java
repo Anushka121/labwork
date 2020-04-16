@@ -1,7 +1,7 @@
 package com.capg.entities;
 
 public class Employee {
-    private Integer id;
+    private Int id;
     private String name;
     private int salary;
   
@@ -18,11 +18,11 @@ public class Employee {
         this.salary=salary;
     }
 
-    public Integer getId() {
+    public Int getId() {
         return id;
     }
 
-    public void setId(Integer id) {
+    public void setId(Int id) {
         this.id = id;
     }
 
