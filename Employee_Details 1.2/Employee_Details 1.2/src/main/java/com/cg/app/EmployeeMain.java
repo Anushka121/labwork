@@ -22,7 +22,7 @@ public class EmployeeMain {
         
         Employee employee = context.getBean(Employee.class);
         SBU sbu=context.getBean(SBU.class);
-        employee.setSbulist(sbu);
+        //employee.setSbulist(sbu);
         employee.display();
         
     
